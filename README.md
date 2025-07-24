@@ -22,6 +22,8 @@ This project implements a model with a transformer architecture for classifying 
 
 ## Example
 
+Live demo is available on HuggingFace Spaces [here](https://huggingface.co/spaces/xsenyaaax/CodeSnippetPrediction) or via [directed URL](https://xsenyaaax-codesnippetprediction.hf.space)(directed URL is better for visualizing attention, because HuggingFace clips the available space on a web page).
+
 Below is a screenshot of the demo app in action:
 ![app-example](static/app-example.png)
 
