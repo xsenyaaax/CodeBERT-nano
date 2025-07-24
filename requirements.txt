@@ -1,0 +1,9 @@
+gradio==5.38.0
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.0+cpu
+bertviz==1.4.1
+pandas==2.3.0
+tokenizers==0.21.2
+fastapi==0.116.1
+uvicorn[standard]
+numpy<2
